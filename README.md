@@ -31,7 +31,7 @@ InvestManager is a comprehensive desktop application which is designed to help i
 # Detailed Overview ==============
 
 ## Homepage
-![]("./assets/homepage.png")
+![]("./public/assets/homepage.png")
 
 ### Functionality:
 1) The list of all shares and bonds that are available on the market
@@ -42,7 +42,7 @@ InvestManager is a comprehensive desktop application which is designed to help i
 
 
 ## Information about particular share
-![]("./assets/information.png")
+![]("./public/assets/information.png")
 
 ### Functionality:
 1) Graph represents historical data about the price of a particular share
@@ -51,7 +51,7 @@ InvestManager is a comprehensive desktop application which is designed to help i
 
 
 ## Statistics
-![]("./assets/statistics.png")
+![]("./public/assets/statistics.png")
 
 ### Functionality:
 1) Information about top-gainers and top-losers of a particular period
@@ -59,7 +59,7 @@ InvestManager is a comprehensive desktop application which is designed to help i
 
 
 ## Portfolio
-![]("./assets/portfolio.png")
+![]("./public/assets/portfolio.png")
 
 ### Functionality:
 1) Information about the portfolio of a user
