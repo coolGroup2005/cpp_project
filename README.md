@@ -13,7 +13,7 @@ InvestManager is a comprehensive desktop application which is designed to help i
     * Explore and discover new investment opportunities through advanced search and filtering.
 3) Investment advisor:
     * Leverage the power of algorithms and statistical models to receive personalized investment recommendations. 
-* User-Friendly Interface:
+4) User-Friendly Interface:
     * Navigate effortlessly through the application with a clean and intuitive Qt-based interface.
     * Customize dashboards and views to suit your preferences and workflow.
 
